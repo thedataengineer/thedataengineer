@@ -31,7 +31,7 @@ Check out my repos for **experimental projects, POCs, and AI-driven applications
 
 ## 🔗 Connect With Me  
 
-- **LinkedIn**: [linkedin.com/in/karteekyadavilli](https://www.linkedin.com/in/yakarteek)  
+- **LinkedIn**: https://www.linkedin.com/in/yakarteek
 - **GitHub**: You're already here! ⭐ this repo to stay updated  
 
 💬 Feel free to reach out if you're working on **exciting data, AI, or cloud projects**—always open to collaborating and exchanging ideas!  
