@@ -1,1 +1,17 @@
+## 📚 My Active Repositories
 
+| Repository | Description | Tech Stack | Stars |
+|------------|-------------|------------|-------|
+{% for repo in active_repositories %}
+| [{{ repo.name }}]({{ repo.url }}) | {{ repo.description }} | {{ repo.language }} | ⭐ {{ repo.stars }} |
+{% endfor %}
+
+## 🍴 Recent Forks & Contributions
+
+| Original Repository | My Fork | Why I'm Interested |
+|---------------------|---------|-------------------|
+{% for fork in recent_forks %}
+| [{{ fork.parent_owner }}/{{ fork.parent_name }}]({{ fork.parent_url }}) | [{{ fork.name }}]({{ fork.url }}) | {{ fork.description }} |
+{% endfor %}
+
+*Last updated: {{ last_updated }}*
